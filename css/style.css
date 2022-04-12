@@ -1,0 +1,45 @@
+*{
+    border: 2px solid red;
+    text-align: center;
+}
+.cooking-picture{
+    width:fit;
+    height: fit;
+}
+h1{
+    color: hsl(161, 44%, 64%);
+    font-size:xx-large;
+    font-family: serif;
+    
+}
+
+h2{
+    color: hsl(161, 44%, 64%);
+    font-size:x-large;
+    font-family: serif;
+
+}
+
+body{
+    background-color: bisque;
+    font-family: serif;
+}
+
+p{
+    font-size: medium;
+    color: #171b18;
+}
+ul{
+    font-weight: bold;
+    font-size: medium;
+    color: #171b18;
+}
+
+ol{
+    font-size: medium;
+    color: #171b18;
+}
+img{
+    height:300;
+    width: 500px;;
+}
